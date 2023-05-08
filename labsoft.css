@@ -1,0 +1,46 @@
+  body{
+    background-color: #7a3fa3;
+    border: 0;
+}
+
+#cabeçário {
+    width: 90px;
+    height: 90px;
+    color: #ebceef;
+}
+
+h3{
+    color: #ebceef;
+    display: flex;
+    font-weight: 300;
+
+}
+
+#logohotel{
+    width: 30%;
+    right: 30%;
+}
+
+#hotel{
+    right: 30%;
+    width: 30%;
+    
+}
+
+#estrelas{
+    right: 10%;
+    width: 10%;
+}
+
+nav{
+    display: grid;
+    grid-template-rows: 40%;
+}
+
+#flex{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+}
