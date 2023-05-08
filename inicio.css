@@ -1,0 +1,17 @@
+*{
+    BORDER:0;
+    background-color: #A73FA3;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    background-color: #ebceef;
+    border-radius: 10px;
+}
+
+#cabeçário{
+    width: 150px;
+    height: 30px;
+    background-color: #ebceef;
+}
