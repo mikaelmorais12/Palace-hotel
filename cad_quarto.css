@@ -52,3 +52,20 @@ input::placeholder{
     text-align: left;
     padding-left: 8px;
 }
+select{
+    width: 165px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+option{
+    background-color: #ebceef;
+}
+
+#preço, #Horário{
+    text-align: left;
+    padding-left: 10px;
+    color: #7a3fa3;
+}
