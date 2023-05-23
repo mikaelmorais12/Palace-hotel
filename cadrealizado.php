@@ -25,19 +25,24 @@ if ($verdade == TRUE) {
     <?php } ?>
     <br>
     <?php
-$falso = FALSE
-if ($falso == FALSE) {
+$verdade = TRUE;
+if ($verdade == TRUE) {
     ?>
     <div id="flex">
         <h2>
-            Seu cadastro foi negado
+            Seu cadastro foi realizado
         </h2>
-        <img src="https://i.ibb.co/PtyBRtV/download-removebg-preview.png" id="negado" alt="download-removebg-preview">
+        <img src="https://i.ibb.co/JHtvj92/png-transparent-ok-check-todo-agenda-icon-symbol-tick-to-do-gui-completed-thumbnail-removebg-preview.png" id="concluido" alt="png-transparent-ok-check-todo-agenda-icon-symbol-tick-to-do-gui-completed-thumbnail-removebg-preview">
         <br>
         <button id="button">EXCLUIR OU ALTERAR</button>
         <br>
         <button id="button">SAIR</button>
     </div>
+    <?php } ?>
+    <br>
+    <?php
+if ($verdade == FALSE) {
+    ?>
     <?php } ?>
 </body>
 </html>
