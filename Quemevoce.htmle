@@ -18,15 +18,15 @@
         </div>
 
         <div class="but">
-            <button><a href="cad_login.html">GERENTE</a></button>
+            <button><a href="cad_login_gerente.html">GERENTE</a></button>
             <br>
-            <button><a href="cad_login.html">ADMINISTRADOR</a></button>
+            <button><a href="cad_login_adm.html">ADMINISTRADOR</a></button>
             <br>
-            <button><a href="cad_login.html">RECEPCIONISTA</a></button>
+            <button><a href="cad_login_recepcionista.html">RECEPCIONISTA</a></button>
             <br>
             <button><a href="cad_login.html">HÓSPEDE</a></button>
             <br>
-            <button><a href="cad_login.html">RELATÓRIOS</a></button>
+            <button><a href="relatórios.html">RELATÓRIOS</a></button>
         </div>
        
     </main>
